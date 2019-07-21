@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/pkg/relationships"
+	"github.com/zhangpy/unioffice"
+	"github.com/zhangpy/unioffice/schema/soo/pkg/relationships"
 )
 
 // Relationships represents a .rels file.

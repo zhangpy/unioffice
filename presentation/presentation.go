@@ -20,14 +20,14 @@ import (
 	"os"
 	"path"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/common"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/schema/soo/dml"
-	"github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes"
-	"github.com/unidoc/unioffice/schema/soo/pkg/relationships"
-	"github.com/unidoc/unioffice/schema/soo/pml"
-	"github.com/unidoc/unioffice/zippkg"
+	"github.com/zhangpy/unioffice"
+	"github.com/zhangpy/unioffice/common"
+	"github.com/zhangpy/unioffice/measurement"
+	"github.com/zhangpy/unioffice/schema/soo/dml"
+	"github.com/zhangpy/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/zhangpy/unioffice/schema/soo/pkg/relationships"
+	"github.com/zhangpy/unioffice/schema/soo/pml"
+	"github.com/zhangpy/unioffice/zippkg"
 )
 
 // Presentation is the a presentation base document.

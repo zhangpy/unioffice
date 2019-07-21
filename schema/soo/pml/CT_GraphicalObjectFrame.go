@@ -12,8 +12,8 @@ package pml
 import (
 	"encoding/xml"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/dml"
+	"github.com/zhangpy/unioffice"
+	"github.com/zhangpy/unioffice/schema/soo/dml"
 )
 
 type CT_GraphicalObjectFrame struct {

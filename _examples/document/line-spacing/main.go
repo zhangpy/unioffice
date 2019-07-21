@@ -4,9 +4,9 @@ package main
 import (
 	"log"
 
-	"github.com/unidoc/unioffice/document"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/zhangpy/unioffice/document"
+	"github.com/zhangpy/unioffice/measurement"
+	"github.com/zhangpy/unioffice/schema/soo/wml"
 )
 
 func main() {

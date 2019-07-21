@@ -18,16 +18,16 @@ import (
 	"strings"
 	"time"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/common"
-	"github.com/unidoc/unioffice/vmldrawing"
-	"github.com/unidoc/unioffice/zippkg"
+	"github.com/zhangpy/unioffice"
+	"github.com/zhangpy/unioffice/common"
+	"github.com/zhangpy/unioffice/vmldrawing"
+	"github.com/zhangpy/unioffice/zippkg"
 
-	"github.com/unidoc/unioffice/schema/soo/dml"
-	crt "github.com/unidoc/unioffice/schema/soo/dml/chart"
-	sd "github.com/unidoc/unioffice/schema/soo/dml/spreadsheetDrawing"
-	"github.com/unidoc/unioffice/schema/soo/pkg/relationships"
-	"github.com/unidoc/unioffice/schema/soo/sml"
+	"github.com/zhangpy/unioffice/schema/soo/dml"
+	crt "github.com/zhangpy/unioffice/schema/soo/dml/chart"
+	sd "github.com/zhangpy/unioffice/schema/soo/dml/spreadsheetDrawing"
+	"github.com/zhangpy/unioffice/schema/soo/pkg/relationships"
+	"github.com/zhangpy/unioffice/schema/soo/sml"
 )
 
 // ErrorNotFound is returned when something is not found

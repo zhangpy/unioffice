@@ -6,12 +6,12 @@ import (
 	"log"
 	"math/rand"
 
-	"github.com/unidoc/unioffice/chart"
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/spreadsheet"
+	"github.com/zhangpy/unioffice/chart"
+	"github.com/zhangpy/unioffice/color"
+	"github.com/zhangpy/unioffice/measurement"
+	"github.com/zhangpy/unioffice/spreadsheet"
 
-	"github.com/unidoc/unioffice/schema/soo/sml"
+	"github.com/zhangpy/unioffice/schema/soo/sml"
 )
 
 func main() {

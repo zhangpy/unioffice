@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/unidoc/unioffice/chart"
-	"github.com/unidoc/unioffice/spreadsheet"
+	"github.com/zhangpy/unioffice/chart"
+	"github.com/zhangpy/unioffice/spreadsheet"
 )
 
 func main() {

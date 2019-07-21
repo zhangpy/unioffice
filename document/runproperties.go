@@ -8,11 +8,11 @@
 package document
 
 import (
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/zhangpy/unioffice"
+	"github.com/zhangpy/unioffice/color"
+	"github.com/zhangpy/unioffice/measurement"
+	"github.com/zhangpy/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/zhangpy/unioffice/schema/soo/wml"
 )
 
 // RunProperties controls run styling properties

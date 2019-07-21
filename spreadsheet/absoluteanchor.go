@@ -8,9 +8,9 @@
 package spreadsheet
 
 import (
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/measurement"
-	sd "github.com/unidoc/unioffice/schema/soo/dml/spreadsheetDrawing"
+	"github.com/zhangpy/unioffice"
+	"github.com/zhangpy/unioffice/measurement"
+	sd "github.com/zhangpy/unioffice/schema/soo/dml/spreadsheetDrawing"
 )
 
 // AbsoluteAnchor has a fixed top-left corner in distance units as well as a

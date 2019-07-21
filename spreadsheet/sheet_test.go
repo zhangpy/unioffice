@@ -13,8 +13,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/spreadsheet"
+	"github.com/zhangpy/unioffice"
+	"github.com/zhangpy/unioffice/spreadsheet"
 )
 
 func TestRowNumIncreases(t *testing.T) {

@@ -11,9 +11,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/common"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/zhangpy/unioffice"
+	"github.com/zhangpy/unioffice/common"
+	"github.com/zhangpy/unioffice/schema/soo/wml"
 )
 
 // Footer is a footer for a document section.

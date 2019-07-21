@@ -1,1 +1,4 @@
-module github.com/unidoc/unioffice
+module github.com/zhangpy/unioffice
+
+go 1.12
+

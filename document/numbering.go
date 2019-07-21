@@ -8,9 +8,9 @@
 package document
 
 import (
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/zhangpy/unioffice"
+	"github.com/zhangpy/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/zhangpy/unioffice/schema/soo/wml"
 )
 
 // Numbering is the document wide numbering styles contained in numbering.xml.
